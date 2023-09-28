@@ -1,4 +1,4 @@
-# Welcome to SPS Marketing
+# SPS Marketing
 
 ![SPS Marketing Logo](https://scontent.flnz1-1.fna.fbcdn.net/v/t39.30808-6/310613073_503198191816104_7704862847712581826_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=52f669&_nc_ohc=-pZjU_4EE-gAX8YCjw-&_nc_oc=AQmwLAisj2ayymtvQf0MAQEFsuh_zu7SQ6v7__gkSF3Krwl9GKq769GDoNZBhECHWvo&_nc_ht=scontent.flnz1-1.fna&oh=00_AfDBSrUD_cbCAn3zLcYlUHdQRp_HP6O2yeoQnGJFYagoWQ&oe=651AC108)
 
